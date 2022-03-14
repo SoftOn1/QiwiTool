@@ -19,7 +19,7 @@ from termcolor import colored
 from SimpleQIWI.Errors import QIWIAPIError
 from progress.bar import IncrementalBar
 
-from modules import misc.py
+from modules import misc
 from modules.qiwi_wrapper import QiwiWrapper
 from modules.db_wrapper import DataBaseWrapper
 
